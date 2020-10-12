@@ -8,3 +8,5 @@ The main tests the various BST functions of the implementation.
 
 All the codes are commented accordingly.
 
+Apologies for the wrong upload of the codes, the final version is given in the folder BST and not in BST_project_exam
+
